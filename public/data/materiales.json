@@ -1,0 +1,65 @@
+[
+    {
+      "nombre": "Adhesivo de Construcción en Tubo",
+      "descripcion": "Pegamento industrial para unir materiales como madera, metal y concreto.",
+      "tamano": "300 ml por tubo",
+      "precio": "$15 - $30 por unidad",
+       "imagen": "https://github.com/EduardGabrielMirea/E-commerce-Web/blob/main/public/img/AdhesivoDeConstrucci%C3%B3nEnTubo.jpg"
+    },
+    {
+      "nombre": "Bolsa de Cemento de Secado Rápido",
+      "descripcion": "Cemento en polvo con fórmula de secado rápido, ideal para reparaciones menores.",
+      "tamano": "5 kg por bolsa",
+      "precio": "$10 - $25 por bolsa",
+      "url_imagen": "https://www.ejemplo.com/imagen.jpg"
+    },
+    {
+      "nombre": "Paneles de Aislamiento Ligero",
+      "descripcion": "Placas de poliestireno expandido (EPS) o lana mineral para aislamiento térmico y acústico.",
+      "tamano": "1.2m x 0.6m x 5cm por panel",
+      "precio": "$20 - $50 por unidad"
+    },
+    {
+      "nombre": "Ladrillos de Espuma de Concreto",
+      "descripcion": "Bloques ligeros de hormigón celular para construcción rápida y eficiente.",
+      "tamano": "60cm x 30cm x 10cm por bloque",
+      "precio": "$5 - $15 por unidad"
+    },
+    {
+      "nombre": "Mallas de Fibra de Vidrio",
+      "descripcion": "Mallas resistentes utilizadas para refuerzo de superficies en revocos y aislamientos.",
+      "tamano": "Rollo de 1m x 50m",
+      "precio": "$30 - $70 por rollo"
+    },
+    {
+      "nombre": "Pintura Acrílica para Fachadas",
+      "descripcion": "Pintura en envase ligero con alta resistencia a la intemperie.",
+      "tamano": "1 galón (3.78 litros)",
+      "precio": "$25 - $50 por galón"
+    },
+    {
+      "nombre": "Tornillos Autoperforantes para Construcción",
+      "descripcion": "Tornillos diseñados para perforar sin necesidad de taladro previo.",
+      "tamano": "100 unidades por caja (diferentes longitudes)",
+      "precio": "$10 - $30 por caja"
+    },
+    {
+      "nombre": "Cinta Selladora para Construcción",
+      "descripcion": "Cinta adhesiva impermeable para juntas y grietas en construcción.",
+      "tamano": "Rollo de 10m x 5cm",
+      "precio": "$5 - $20 por rollo"
+    },
+    {
+      "nombre": "Láminas de Policloruro de Vinilo (PVC) para Techos",
+      "descripcion": "Placas de PVC ligeras y resistentes para techado temporal o permanente.",
+      "tamano": "2m x 1m x 5mm por lámina",
+      "precio": "$25 - $60 por unidad"
+    },
+    {
+      "nombre": "Espuma de Poliuretano en Spray",
+      "descripcion": "Material de relleno y sellado para grietas y espacios en la construcción.",
+      "tamano": "500 ml por bote",
+      "precio": "$15 - $35 por unidad"
+    }
+  ]
+  

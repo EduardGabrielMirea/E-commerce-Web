@@ -1,0 +1,51 @@
+[
+    {
+      "nombre": "Taladro Inalámbrico Compacto",
+      "descripcion": "Taladro inalámbrico ligero y compacto, ideal para perforar madera, metal y plástico. Incluye batería de iones de litio recargable.",
+      "tamano": "20 cm x 5 cm x 18 cm; peso aproximado de 1.5 kg",
+      "precio": "$80 - $150"
+    },
+    {
+      "nombre": "Destornillador Eléctrico Portátil",
+      "descripcion": "Destornillador eléctrico compacto con múltiples puntas intercambiables, adecuado para ensamblajes rápidos y trabajos ligeros.",
+      "tamano": "15 cm x 4 cm x 4 cm; peso aproximado de 0.5 kg",
+      "precio": "$30 - $60"
+    },
+    {
+      "nombre": "Medidor Láser de Distancia",
+      "descripcion": "Dispositivo portátil que mide distancias de hasta 40 metros con precisión láser, ideal para cálculos rápidos en obra.",
+      "tamano": "12 cm x 5 cm x 2.5 cm; peso aproximado de 0.2 kg",
+      "precio": "$50 - $100"
+    },
+    {
+      "nombre": "Nivel Láser Compacto",
+      "descripcion": "Herramienta que proyecta líneas láser horizontales y verticales para una nivelación precisa en instalaciones y construcciones.",
+      "tamano": "10 cm x 6 cm x 8 cm; peso aproximado de 0.4 kg",
+      "precio": "$70 - $120"
+    },
+    {
+      "nombre": "Multiherramienta Oscilante Inalámbrica",
+      "descripcion": "Herramienta versátil para cortar, lijar y raspar en espacios reducidos, con accesorios intercambiables.",
+      "tamano": "28 cm x 5 cm x 8 cm; peso aproximado de 1.2 kg",
+      "precio": "$100 - $180"
+    },
+    {
+      "nombre": "Sierra Circular Compacta",
+      "descripcion": "Sierra circular portátil diseñada para cortes precisos en madera y materiales similares; incluye protector de hoja y guía de corte.",
+      "tamano": "25 cm x 20 cm x 15 cm; peso aproximado de 2.5 kg",
+      "precio": "$120 - $200"
+    },
+    {
+      "nombre": "Llave de Impacto Inalámbrica",
+      "descripcion": "Llave de impacto compacta y potente para apretar y aflojar tornillos y pernos en trabajos de construcción y automotriz.",
+      "tamano": "17 cm x 7 cm x 20 cm; peso aproximado de 1.8 kg",
+      "precio": "$150 - $250"
+    },
+    {
+      "nombre": "Lijadora Orbital Compacta",
+      "descripcion": "Lijadora eléctrica portátil para acabados suaves en superficies de madera, metal y plástico; diseño ergonómico para uso prolongado.",
+      "tamano": "16 cm x 12 cm x 14 cm; peso aproximado de 1.3 kg",
+      "precio": "$60 - $110"
+    }
+  ]
+  
