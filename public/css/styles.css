@@ -1,3 +1,13 @@
 .carousel-control-next, .carousel-control-prev{
     color:currentColor;
 }
+#main-nav {
+    overflow: hidden;
+    max-height: 0;
+    transition: max-height 0.3s ease-in-out;
+}
+
+#main-nav.expanded {
+    max-height: 500px; /* Ajusta este valor según la altura de tu contenido */
+}
+
