@@ -6,7 +6,7 @@ $(document).ready(function() {
             nav.animate({ maxHeight: 0 }, 300);
         } else {
             nav.addClass('expanded');
-            nav.animate({ maxHeight: 500 }, 300); // Asegúrate de que este valor coincida con el del CSS
+            nav.animate({ maxHeight: 500 }, 300);
         }
     });
 });
