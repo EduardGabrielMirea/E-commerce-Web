@@ -1,0 +1,16 @@
+[
+    {
+        "usuario": "Juan",
+        "texto": "¿Cuál es el tiempo de entrega del material?",
+        "respuestas": [
+            "El tiempo de entrega es de 24 a 48 horas en la mayoría de las ciudades."
+        ]
+    },
+    {
+        "usuario": "María",
+        "texto": "¿Ofrecen descuentos por compras grandes?",
+        "respuestas": [
+            "Sí, ofrecemos descuentos en pedidos mayores a 100 unidades."
+        ]
+    }
+]
