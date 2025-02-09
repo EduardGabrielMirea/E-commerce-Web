@@ -1,4 +1,4 @@
-((function ($) {
+(function ($) {
     $.fn.carruselProductos = function (opciones) {
         let config = $.extend({
             jsonUrl: null,
@@ -12,6 +12,7 @@
 
         let container = this;
 
+        // Cargar productos desde JSON y agregarlos al carrusel
         $.getJSON(config.jsonUrl, function (data) {
             data.forEach((item, index) => {
                 let activeClass = index === 0 ? 'active' : '';
@@ -29,6 +30,7 @@
                 `);
             });
 
+            // Evento para agregar productos a la cesta
             container.find('.agregar').on('click', function () {
                 let nombre = $(this).data('nombre');
                 let precio = parseFloat($(this).data('precio').replace('$', ''));
@@ -43,4 +45,4 @@
 
         return this;
     };
-})(jQuery));
+})(jQuery);
